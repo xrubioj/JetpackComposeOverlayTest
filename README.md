@@ -20,3 +20,8 @@ it yet).
 
 Finally, currently there's no way to dismiss the overlay. This is just a
 small PoC. I may implement it later.
+
+UPDATE: the original Gist with comments pointing out to the same solutions
+I found seems to be here:
+
+https://gist.github.com/handstandsam/6ecff2f39da72c0b38c07aa80bbb5a2f
